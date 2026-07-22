@@ -1,8 +1,0 @@
-{
-  "name": "shadow-md",
-  "version": "1.0.0",
-  "description": "A WhatsApp Multi Device Bot",
-  "main": "index.js",
-  "author": "DARKLORD",
-  "license": "MIT"
-}
