@@ -1,6 +1,7 @@
 module.exports = {
     name: "ping",
-    description: "Check if the bot is online",
+    category: "general",
+    description: "Check bot speed",
 
     execute() {
         console.log("🏓 Pong!");
